@@ -15,7 +15,7 @@
 ## 📄 Overview  
 
 This repository contains the final **major project report** completed as part of the Bachelor of Technology in **Computer Science and Engineering**.  
-The project focused on developing a **Real-Time Sign Language Recognition system** using **Transfer Learning** and the **TensorFlow Object Detection API**.
+The project focused on developing a real-time sign language recognition system using transfer learning and the TensorFlow Object Detection API.
 
 The goal was to bridge the communication gap between hearing-impaired and normal individuals by recognizing hand gestures from a webcam feed and translating them into corresponding text in real time.
 
@@ -77,15 +77,4 @@ All rights are reserved by the original authors and **Gokaraju Rangaraju Institu
 
 ---
 
-## 🖼️ Optional Additions  
 
-You can optionally add:  
-- `/assets/sample_output.png` → screenshots from the report  
-- `/assets/certificate.pdf` → project completion certificate  
-- `/presentation/major_project_slides.pptx` → final presentation slides  
-
----
-
-> **Tip:** Keep your repository public and add a clear description like  
-> *"Undergraduate major project demonstrating real-time sign language recognition using deep learning (TensorFlow Transfer Learning)"*  
-> in your GitHub repo settings.
